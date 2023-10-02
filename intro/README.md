@@ -7,3 +7,4 @@ This introductory module provides a broad overview of AI and Deep Learning, basi
 3. Optimization - using Gradient Descent method to solve and optimize a Computer Vision problem
 4. Rivison of Linear Regression - For building basics in Linear Neural Network ( how a normal eqn can be solved analytically by a single layered - single neuron Neural network)
 
+This folder contains test files, I attempted in order to pass the Intro module. 
